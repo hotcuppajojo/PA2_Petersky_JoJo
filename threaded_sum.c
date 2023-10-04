@@ -1,4 +1,8 @@
-
+/* Homework 2 - CS 446/646
+    File: threaded_sum.c
+    Author: JoJo Petersky
+*/
+// Include necessary header files
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
